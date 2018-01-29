@@ -1,6 +1,5 @@
 //second time
 package com.tree.define;
-
 public class BiTreeNode {
 	public Object data;                    //节点的数据域
 	public BiTreeNode lchild,rchild;       //左右孩子域
@@ -19,7 +18,4 @@ public class BiTreeNode {
 		this.lchild = lchild;
 		this.rchild = rchild;
 	}
-	
-	
-
 }
