@@ -9,7 +9,7 @@ public class MinNumberInRotateArray {
 	public int method1(int[] array){
 		//
 		
-		
+		//
 		//
 		return 0;	
 	}
