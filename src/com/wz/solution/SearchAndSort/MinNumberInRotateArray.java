@@ -7,13 +7,8 @@ NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。*/
 package com.wz.solution.SearchAndSort;
 public class MinNumberInRotateArray {
 	public int method1(int[] array){
-		//
-		
-		//
-		//
 		return 0;	
 	}
-	
 	///////////////////////////////////////////////////////////////////
 	public int method2(int[] array){
 		if(array==null||array.length==0)
