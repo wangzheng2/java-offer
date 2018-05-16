@@ -5,15 +5,7 @@ package com.wz.solution.Tree;
  * 时候，若值相等就是，若不相等就不是。*/
 /*思路2：若前序遍历等于后序遍历，那么对称，这种方法当节点值一样的时候显然是错误的*/
 
- class TreeNode {
-    int val = 0;
-    TreeNode left = null;
-    TreeNode right = null;
 
-    public TreeNode(int val) {
-        this.val = val;
-    }
-}
 public class isSymmetrical {
 	 boolean isSymmetrical(TreeNode pRoot)
 	    {
